@@ -111,7 +111,7 @@ const SignupForm = ({ onSwap = () => {} }) => {
                     message={
                         <small className="">
                             By Signing up or Continue with Google or Facebook,
-                            you agree to GoodDeal's{' '}
+                            you agree to SpeedMan's{' '}
                             <Link to="/legal/termsOfUse" target="_blank">
                                 Terms of Use
                             </Link>{' '}
@@ -245,7 +245,7 @@ const SignupForm = ({ onSwap = () => {} }) => {
                     <small className="text-center d-block mx-4">
                         <span className="text-muted">
                             By Signing up or Continue with Google or Facebook,
-                            you agree to GoodDeal's{' '}
+                            you agree to SpeedMan's{' '}
                         </span>
                         <Link to="/legal/termsOfUse" target="_blank">
                             Terms of Use

@@ -61,8 +61,7 @@ const Footer = (props) => {
                         <div className="">
                             <h6>Thanks</h6>
                             <p style={{ textAlign: 'justify' }}>
-                                Master Nguyen Huu Trung, Ho Chi Minh City
-                                University of Technology and Education.
+                                Da Nang University of Science and Technology
                             </p>
                         </div>
                     </div>
@@ -112,9 +111,9 @@ const Footer = (props) => {
                 <div className="row">
                     <div className="col-md-8 col-sm-6 col-xs-12">
                         <p className="copyright-text">
-                            Copyright &copy; 2021 All Rights Reserved by{' '}
+                            Copyright &copy; 2023 All Rights Reserved by{' '}
                             <Link className="link-hover text-reset" to="#">
-                                GoodDeal
+                                SpeedMan
                             </Link>
                             .
                         </p>
@@ -127,7 +126,7 @@ const Footer = (props) => {
                                     className="facebook"
                                     to={{
                                         pathname:
-                                            'https://www.facebook.com/nghiadang666/',
+                                            'https://www.facebook.com/nguyenvan.huan.1',
                                     }}
                                     target="_blank"
                                 >
@@ -144,7 +143,7 @@ const Footer = (props) => {
                                     className="github"
                                     to={{
                                         pathname:
-                                            'https://github.com/langde666',
+                                            'https://github.com',
                                     }}
                                     target="_blank"
                                 >

@@ -156,7 +156,7 @@ const MainNav = ({ navFor = 'user' }) => {
                                         <i className="fas fa-home"></i>
                                     </Link>
                                     <small className="cus-tooltip-msg">
-                                        Back to GoodDeal!
+                                        Back to SpeedMan!
                                     </small>
                                 </li>
                             )}

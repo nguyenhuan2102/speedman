@@ -222,7 +222,7 @@ const SigninForm = ({ onSwap = () => {} }) => {
                     <small className="text-center d-block mx-4">
                         <span className="text-muted">
                             By Signing in or Continue with Google or Facebook,
-                            you agree to GoodDeal's{' '}
+                            you agree to SpeedMan's{' '}
                         </span>
                         <Link to="/legal/termsOfUse" target="_blank">
                             Terms of Use

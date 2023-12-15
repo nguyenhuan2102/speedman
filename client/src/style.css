@@ -19,10 +19,12 @@
 body {
     overflow: auto !important;
     padding-right: 0 !important;
+    
 }
 
 header {
     padding-right: 0 !important;
+    
 }
 
 /* boostrap */

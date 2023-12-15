@@ -12,9 +12,9 @@ const Logo = ({ noBackground = false }) => (
                         : 'bg-primary text-white'
                 }`}
             >
-                Good
+                Speed
             </span>
-            DeaL!
+            Man!
         </h1>
     </div>
 );
